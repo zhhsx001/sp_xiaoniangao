@@ -1,0 +1,290 @@
+INFO:schedule:Running job Every 30 minutes do video_task() (last run: [never], next run: 2019-11-27 18:35:46)
+ERROR:root:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:23:44)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:23:44, next run: 2019-11-28 18:23:47)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:29:38)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:29:38, next run: 2019-11-28 18:29:41)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:29:53)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:29:53, next run: 2019-11-28 18:29:56)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:29:56, next run: 2019-11-28 18:29:59)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:29:59, next run: 2019-11-28 18:30:02)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:03, next run: 2019-11-28 18:30:06)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:06, next run: 2019-11-28 18:30:09)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:09, next run: 2019-11-28 18:30:12)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:12, next run: 2019-11-28 18:30:15)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:15, next run: 2019-11-28 18:30:18)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:18, next run: 2019-11-28 18:30:21)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:21, next run: 2019-11-28 18:30:24)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:30:24, next run: 2019-11-28 18:30:27)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:31:20)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:31:20, next run: 2019-11-28 18:31:23)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:32:28)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:32:28, next run: 2019-11-28 18:32:31)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:32:31, next run: 2019-11-28 18:32:34)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:32:34, next run: 2019-11-28 18:32:37)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:34:06)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:06, next run: 2019-11-28 18:34:09)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:09, next run: 2019-11-28 18:34:12)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:12, next run: 2019-11-28 18:34:15)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:15, next run: 2019-11-28 18:34:18)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:18, next run: 2019-11-28 18:34:21)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:21, next run: 2019-11-28 18:34:24)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:24, next run: 2019-11-28 18:34:27)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:27, next run: 2019-11-28 18:34:30)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:34:30, next run: 2019-11-28 18:34:33)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:35:05)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:35:05, next run: 2019-11-28 18:35:08)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:41:04)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:04, next run: 2019-11-28 18:41:07)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:07, next run: 2019-11-28 18:41:10)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:10, next run: 2019-11-28 18:41:13)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:13, next run: 2019-11-28 18:41:16)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:16, next run: 2019-11-28 18:41:19)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:19, next run: 2019-11-28 18:41:22)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:22, next run: 2019-11-28 18:41:25)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:25, next run: 2019-11-28 18:41:28)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:28, next run: 2019-11-28 18:41:31)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:31, next run: 2019-11-28 18:41:34)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:34, next run: 2019-11-28 18:41:37)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:37, next run: 2019-11-28 18:41:40)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:40, next run: 2019-11-28 18:41:43)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:43, next run: 2019-11-28 18:41:46)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:46, next run: 2019-11-28 18:41:49)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:49, next run: 2019-11-28 18:41:52)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:52, next run: 2019-11-28 18:41:55)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:41:55, next run: 2019-11-28 18:41:58)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-11-28 18:44:29)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:44:29, next run: 2019-11-28 18:44:32)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:44:32, next run: 2019-11-28 18:44:35)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:44:35, next run: 2019-11-28 18:44:38)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:44:38, next run: 2019-11-28 18:44:41)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-11-28 18:44:41, next run: 2019-11-28 18:44:44)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:27:57)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:27:57, next run: 2019-12-02 16:28:00)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:00, next run: 2019-12-02 16:28:03)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:03, next run: 2019-12-02 16:28:06)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:06, next run: 2019-12-02 16:28:09)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:09, next run: 2019-12-02 16:28:12)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:12, next run: 2019-12-02 16:28:15)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:15, next run: 2019-12-02 16:28:18)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:18, next run: 2019-12-02 16:28:21)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:21, next run: 2019-12-02 16:28:24)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:24, next run: 2019-12-02 16:28:27)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:27, next run: 2019-12-02 16:28:30)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:30, next run: 2019-12-02 16:28:33)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:33, next run: 2019-12-02 16:28:36)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:36, next run: 2019-12-02 16:28:39)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:39, next run: 2019-12-02 16:28:42)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:42, next run: 2019-12-02 16:28:45)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:45, next run: 2019-12-02 16:28:48)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:48, next run: 2019-12-02 16:28:51)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:51, next run: 2019-12-02 16:28:54)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:28:54, next run: 2019-12-02 16:28:57)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:31:31)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:31, next run: 2019-12-02 16:31:34)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:34, next run: 2019-12-02 16:31:37)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:37, next run: 2019-12-02 16:31:40)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:40, next run: 2019-12-02 16:31:43)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:43, next run: 2019-12-02 16:31:46)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:46, next run: 2019-12-02 16:31:49)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:49, next run: 2019-12-02 16:31:52)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:52, next run: 2019-12-02 16:31:55)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:55, next run: 2019-12-02 16:31:58)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:31:58, next run: 2019-12-02 16:32:01)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:01, next run: 2019-12-02 16:32:04)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:04, next run: 2019-12-02 16:32:07)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:07, next run: 2019-12-02 16:32:10)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:10, next run: 2019-12-02 16:32:13)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:13, next run: 2019-12-02 16:32:16)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:16, next run: 2019-12-02 16:32:19)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:19, next run: 2019-12-02 16:32:22)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:22, next run: 2019-12-02 16:32:25)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:25, next run: 2019-12-02 16:32:28)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:28, next run: 2019-12-02 16:32:31)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:31, next run: 2019-12-02 16:32:34)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:34, next run: 2019-12-02 16:32:37)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:37, next run: 2019-12-02 16:32:40)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:40, next run: 2019-12-02 16:32:43)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:43, next run: 2019-12-02 16:32:46)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:46, next run: 2019-12-02 16:32:49)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:32:49, next run: 2019-12-02 16:32:52)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:34:43)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:34:43, next run: 2019-12-02 16:34:46)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:34:46, next run: 2019-12-02 16:34:49)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:34:50, next run: 2019-12-02 16:34:53)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:34:53, next run: 2019-12-02 16:34:56)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:34:56, next run: 2019-12-02 16:34:59)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:34:59, next run: 2019-12-02 16:35:02)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:02, next run: 2019-12-02 16:35:05)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:05, next run: 2019-12-02 16:35:08)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:08, next run: 2019-12-02 16:35:11)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:11, next run: 2019-12-02 16:35:14)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:14, next run: 2019-12-02 16:35:17)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:17, next run: 2019-12-02 16:35:20)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:20, next run: 2019-12-02 16:35:23)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:23, next run: 2019-12-02 16:35:26)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:26, next run: 2019-12-02 16:35:29)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:29, next run: 2019-12-02 16:35:32)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:32, next run: 2019-12-02 16:35:35)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:35, next run: 2019-12-02 16:35:38)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:38, next run: 2019-12-02 16:35:41)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:41, next run: 2019-12-02 16:35:44)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:44, next run: 2019-12-02 16:35:47)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:47, next run: 2019-12-02 16:35:50)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:50, next run: 2019-12-02 16:35:53)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:53, next run: 2019-12-02 16:35:56)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:56, next run: 2019-12-02 16:35:59)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:35:59, next run: 2019-12-02 16:36:02)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:02, next run: 2019-12-02 16:36:05)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:05, next run: 2019-12-02 16:36:08)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:08, next run: 2019-12-02 16:36:11)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:11, next run: 2019-12-02 16:36:14)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:14, next run: 2019-12-02 16:36:17)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:17, next run: 2019-12-02 16:36:20)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:20, next run: 2019-12-02 16:36:23)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:23, next run: 2019-12-02 16:36:26)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:26, next run: 2019-12-02 16:36:29)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:29, next run: 2019-12-02 16:36:32)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:32, next run: 2019-12-02 16:36:35)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:35, next run: 2019-12-02 16:36:38)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:38, next run: 2019-12-02 16:36:41)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:41, next run: 2019-12-02 16:36:44)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:36:44, next run: 2019-12-02 16:36:47)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:38:39)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:38:39, next run: 2019-12-02 16:38:42)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:38:42, next run: 2019-12-02 16:38:45)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:38:45, next run: 2019-12-02 16:38:48)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:38:48, next run: 2019-12-02 16:38:51)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:39:13)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:13, next run: 2019-12-02 16:39:16)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:16, next run: 2019-12-02 16:39:19)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:19, next run: 2019-12-02 16:39:22)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:22, next run: 2019-12-02 16:39:25)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:25, next run: 2019-12-02 16:39:28)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:28, next run: 2019-12-02 16:39:31)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:31, next run: 2019-12-02 16:39:34)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:34, next run: 2019-12-02 16:39:37)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:39:37, next run: 2019-12-02 16:39:40)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:41:11)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:11, next run: 2019-12-02 16:41:14)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:14, next run: 2019-12-02 16:41:17)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:17, next run: 2019-12-02 16:41:20)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:20, next run: 2019-12-02 16:41:23)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:23, next run: 2019-12-02 16:41:26)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:26, next run: 2019-12-02 16:41:29)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:29, next run: 2019-12-02 16:41:32)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:32, next run: 2019-12-02 16:41:35)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:35, next run: 2019-12-02 16:41:38)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:38, next run: 2019-12-02 16:41:41)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:41:41, next run: 2019-12-02 16:41:44)
+ERROR:sp_xiaoniangao:grab error 0: 'data'
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:43:58)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:43:58, next run: 2019-12-02 16:44:01)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:01, next run: 2019-12-02 16:44:04)
+INFO:sp_xiaoniangao:grab success 0
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:04, next run: 2019-12-02 16:44:07)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:07, next run: 2019-12-02 16:44:10)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:10, next run: 2019-12-02 16:44:13)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:13, next run: 2019-12-02 16:44:16)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:16, next run: 2019-12-02 16:44:19)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:19, next run: 2019-12-02 16:44:22)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:22, next run: 2019-12-02 16:44:25)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:25, next run: 2019-12-02 16:44:28)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:28, next run: 2019-12-02 16:44:31)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:31, next run: 2019-12-02 16:44:34)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:34, next run: 2019-12-02 16:44:37)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:37, next run: 2019-12-02 16:44:40)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:40, next run: 2019-12-02 16:44:43)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:43, next run: 2019-12-02 16:44:46)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:44:46, next run: 2019-12-02 16:44:49)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: [never], next run: 2019-12-02 16:46:19)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:19, next run: 2019-12-02 16:46:22)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:22, next run: 2019-12-02 16:46:25)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:25, next run: 2019-12-02 16:46:28)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:28, next run: 2019-12-02 16:46:31)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:31, next run: 2019-12-02 16:46:34)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:34, next run: 2019-12-02 16:46:37)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:37, next run: 2019-12-02 16:46:40)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:40, next run: 2019-12-02 16:46:43)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:43, next run: 2019-12-02 16:46:46)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:46, next run: 2019-12-02 16:46:49)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:49, next run: 2019-12-02 16:46:52)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:52, next run: 2019-12-02 16:46:55)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:55, next run: 2019-12-02 16:46:58)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:46:58, next run: 2019-12-02 16:47:01)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:47:01, next run: 2019-12-02 16:47:04)
+INFO:schedule:Running job Every 3 seconds do video_task() (last run: 2019-12-02 16:47:04, next run: 2019-12-02 16:47:07)

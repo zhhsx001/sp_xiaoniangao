@@ -3,6 +3,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 import logging
 from datetime import datetime
+from mysql.connector.errors import IntegrityError
 
 logging.basicConfig(filename='data/sp_xiaoniangao.log', level=logging.INFO)
 Base = declarative_base()
@@ -61,6 +62,8 @@ def DBSession(temp, video_type):
         logging.error('sp_xiaoniangao/models class DBSession: session.add error----', e)
     try:
         session.commit()
+    except IntegrityError as e:
+        logging.error('video exist already')
     except Exception as e:
         logging.error('sp_xiaoniangao/models class DBSession: session.commit error----', e)
         session.rollback()
