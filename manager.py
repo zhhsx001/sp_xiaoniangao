@@ -1,17 +1,28 @@
 import datetime
 import threading
 import time
-import os
 from random import randint
 import schedule
-import logging
 from spider import Spider
+import logging
+import settings
 
 
 def init_log(file_name='data/sp_xiaoniangao.log'):
-    if not os.path.exists(file_name):
-        os.mkdir(file_name)
-        logging.basicConfig(filename=file_name, level=logging.INFO)
+    logger = logging.getLogger('manager')
+    logger.setLevel(level=logging.INFO)
+    # Formatter
+    formatter = logging.Formatter('[%(asctime)s] [%(name)s] [%(lineno)d] [%(levelname)s] %(message)s',
+                                  datefmt='%Y-%m-%d %H:%M:%S')
+
+    # FileHandler
+    file_handler = logging.FileHandler(file_name)
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
+    # StreamHandler
+    stream_handler = logging.StreamHandler()
+    stream_handler.setFormatter(formatter)
+    logger.addHandler(stream_handler)
 
 
 def video_job():
@@ -35,14 +46,12 @@ def video_task():
 if __name__ == '__main__':
     init_log()
     schedule.every(20).minutes.do(video_task)
-    while True:
-        # print()
-        # print('-------start one loop------ %s' % datetime.datetime.now().strftime('%H:%M:%S'))
-        start = datetime.time(hour=6)
-        end = datetime.time(hour=21)
-        if start <= datetime.datetime.now().time() <= end:
-            schedule.run_pending()
-            time.sleep(20*60)
-        else:
-            time.sleep(40*60)
+    start = datetime.time(hour=6)
+    end = datetime.time(hour=21)
+
+    while start <= datetime.datetime.now().time() <= end:
+        schedule.run_pending()
+        time.sleep(20*60)
+    else:
+        time.sleep(60*60)
 

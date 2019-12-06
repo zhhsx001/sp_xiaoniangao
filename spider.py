@@ -7,7 +7,7 @@ from qiniu import Auth
 from qiniu.services.storage.bucket import BucketManager
 import models
 
-logger = logging.getLogger('sp_xiaoniangao')
+logger = logging.getLogger('manager.spider')
 
 
 DATA_LIST = {'tuijian': '{"rec_ab_config":{"ban_ab":1, "city_slot":0, "multi_ab":1, "region_ab":{"num":4, "position":{"0":1, "1":2, "2":3, "3":4}}}, "log_params":{"page": "discover_rec", "common":{"os": "Android 8.1.0", "device": "M1816", "weixinver": "7.0.8", "srcver": "2.9.3"}}, "log_common_params":{"e":[{"data":{"topic": "recommend", "page": "discoverIndexPage"}}], "ext":{"os": "Android 8.1.0", "device": "M1816", "weixinver": "7.0.8", "srcver": "2.9.3"}}, "qs": "imageMogr2/gravity/center/rotate/$/thumbnail/!750x500r/crop/750x500/interlace/1/format/jpg", "h_qs":"imageMogr2/gravity/center/rotate/$/thumbnail/!80x80r/crop/80x80/interlace/1/format/jpg", "share_width":625, "share_height":500, "ext":{"items":{"8645785":{"type":"rec","pd":161.832,"ct":1573802711141,"ut":1573802881263},"11096482":{"type":"rec","pd":92.938,"ct":1573801490970,"ut":1573801594384},"12952717":{"type":"rec","pd":93.727,"ct":1573722505531,"ut":1573722608047},"14139772":{"type":"rec","pd":139.67,"ct":1573803766870,"ut":1573804713292},"14365623":{"type":"rec","pd":356.966,"ct":1573800960607,"ut":1573801486367},"15136629":{"type":"rec","pd":10.359,"ct":1573723795368,"ut":1573723813153}}}, "token":"620ae6a48e8432a82fb102be427b53af", "uid":"26631558-5aa5-4997-9706-2c81a5326676", "proj":"ma", "wx_ver":"7.0.8", "code_ver":"1.45.5"}',
@@ -68,7 +68,7 @@ class Spider(object):
             response = requests.request("POST", url, data=data, headers=self.headers, proxies=self.proxies)
             self.content = response.json()
         except Exception as e:
-            logger.error('spider vedio list failed', e)
+            logger.error('spider vedio list failed', e, exc_info=True)
 
     def analysis_list(self):
         try:
@@ -76,7 +76,7 @@ class Spider(object):
                 self.title_list.append(v_text['title'])
                 self.v_list.append(v_text['v_url'])
         except Exception as e:
-            logger.error('video list analysis failed: ', e)
+            logger.error('video list analysis failed: ', e, exc_info=True)
 
     def qiniu_fetch_vedio(self, v_url, key=None):
         qiniuAuth = Auth(self.access_key, self.secret_key)
@@ -105,8 +105,7 @@ class Spider(object):
                 time.sleep(t)
             logger.info("grab success %s" % video_type)
         except Exception as e:
-            logger.error("grab error %s: %s" % (video_type, e))
-            raise e
+            logger.error("grab error %s: %s" % (video_type, e), exc_info=True)
 
     def download_video(self):
         headers = {
@@ -128,7 +127,7 @@ class Spider(object):
                 if i == 0:
                     break
             except Exception as e:
-                logger.error("download_video failed video, video url: %s" % v_url, e)
+                logger.error("download_video failed video, video url: %s" % v_url, e, exc_info=True)
 
     def simulate(self):
         # 使用时间任务控制器，模拟人类行为

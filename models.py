@@ -5,9 +5,9 @@ import logging
 from datetime import datetime
 from mysql.connector.errors import IntegrityError
 
-logging.basicConfig(filename='data/sp_xiaoniangao.log', level=logging.INFO)
+logger = logging.getLogger('manager.models')
 Base = declarative_base()
-DATABASE_URI = 'mysql+mysqlconnector://root:@localhost:3306/sp_xiaoniangao?charset=utf8mb4'
+DATABASE_URI = 'mysql+mysqlconnector://root:skeweeed!@localhost:3306/famliyas?charset=utf8mb4'
 Session = None
 
 
@@ -37,7 +37,7 @@ def make_db():
         Base.metadata.create_all(engine)
         Session = DB()
     except Exception as e:
-        logging.error('sp_xiaoniangao/models class make_db: get database error----', e)
+        logger.error(e, exc_info=True)
 
 
 def DBSession(temp, video_type):
@@ -58,13 +58,11 @@ def DBSession(temp, video_type):
     video.type = video_type
     try:
         session.add(video)
-    except Exception as e:
-        logging.error('sp_xiaoniangao/models class DBSession: session.add error----', e)
-    try:
         session.commit()
     except IntegrityError as e:
-        logging.error('video exist already')
+        logger.error('video exist already')
+        session.rollback()
     except Exception as e:
-        logging.error('sp_xiaoniangao/models class DBSession: session.commit error----', e)
+        logger.exception(e)
         session.rollback()
     session.close()
