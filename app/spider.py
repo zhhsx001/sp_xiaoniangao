@@ -5,7 +5,7 @@ import random
 import time
 from qiniu import Auth
 from qiniu.services.storage.bucket import BucketManager
-import models
+from app import models
 
 logger = logging.getLogger('manager.spider')
 
@@ -54,6 +54,7 @@ class Spider(object):
                       "Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 MicroMessenger/7.0.8.1540"
                       "(0x27000833) Process/appbrand0 NetType/WIFI Language/zh_CN ABI/arm64",
         }
+
     def make_proxy(self):
         # 在服务器上运行proxy程序。使用web api调用
         # 暂时不需要。

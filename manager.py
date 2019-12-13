@@ -1,14 +1,13 @@
 import datetime
 import threading
 import time
+import logging
 from random import randint
 import schedule
-from spider import Spider
-import logging
-import settings
+from app.spider import Spider
 
 
-def init_log(file_name='data/sp_xiaoniangao.log'):
+def init_log(file_name='xiaoniangao.log'):
     logger = logging.getLogger('manager')
     logger.setLevel(level=logging.INFO)
     # Formatter
