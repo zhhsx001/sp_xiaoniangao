@@ -13,7 +13,6 @@ def init_log(file_name='xiaoniangao.log'):
     # Formatter
     formatter = logging.Formatter('[%(asctime)s] [%(name)s] [%(lineno)d] [%(levelname)s] %(message)s',
                                   datefmt='%Y-%m-%d %H:%M:%S')
-
     # FileHandler
     file_handler = logging.FileHandler(file_name)
     file_handler.setFormatter(formatter)
@@ -34,7 +33,7 @@ def video_job():
 def list_job():
     # print('start job %s' % datetime.datetime.now().strftime('%H:%M:%S'))
     for i in range(1, 10):
-        if randint(1, 10) > 7:
+        if randint(1, 10) > 3:
             video_job()
 
 
@@ -43,6 +42,8 @@ def video_task():
 
 
 if __name__ == '__main__':
+    import config
+    num1, num2 = config.NUMBER
     init_log()
     schedule.every(20).minutes.do(video_task)
     start = datetime.time(hour=6)
@@ -50,7 +51,7 @@ if __name__ == '__main__':
 
     while start <= datetime.datetime.now().time() <= end:
         schedule.run_pending()
-        time.sleep(20*60)
+        time.sleep(num1*60)
     else:
-        time.sleep(60*60)
+        time.sleep(num2*60)
 

@@ -3,12 +3,13 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 import logging
 from datetime import datetime
-from mysql.connector.errors import IntegrityError
+import sqlalchemy.exc as exc
+import config
 
 logger = logging.getLogger('manager.models')
 Base = declarative_base()
-DATABASE_URI = 'mysql+mysqlconnector://root:skeweeed!@localhost:3306/famliyas?charset=utf8mb4'
-Session = None
+DATABASE_URI = config.SQLALCHEMY_DATABASE_URI
+Session_ = None
 
 
 class VideoXng(Base):
@@ -30,18 +31,18 @@ class VideoXng(Base):
 
 
 def make_db():
-    global Session
+    global Session_
     try:
         engine = create_engine(DATABASE_URI)
         DB = sessionmaker(bind=engine)
         Base.metadata.create_all(engine)
-        Session = DB()
+        Session_ = DB()
     except Exception as e:
         logger.error(e, exc_info=True)
 
 
 def DBSession(temp, video_type):
-    session = Session
+    session = Session_
 
     video = VideoXng()
     video.album_id = temp['album_id']
@@ -59,10 +60,18 @@ def DBSession(temp, video_type):
     try:
         session.add(video)
         session.commit()
-    except IntegrityError as e:
+    except exc.IntegrityError as e:
         logger.error('video exist already')
         session.rollback()
     except Exception as e:
         logger.exception(e)
         session.rollback()
     session.close()
+
+
+if __name__ == '__main__':
+    import json
+    make_db()
+    with open('temp.json', 'r') as f:
+        temp = json.load(f)
+    DBSession(temp, 0)
